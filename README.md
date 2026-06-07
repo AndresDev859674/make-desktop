@@ -6,5 +6,7 @@ Every time I open an application or other executable file, I want it to be in th
 
 # installing
 Download the bash script (./make-desktop.sh)
+
 Use Chmod to convert to executable : chmod +x ./make-desktop.sh
+
 and if you wanna help use the `./make-desktop.sh -h`
